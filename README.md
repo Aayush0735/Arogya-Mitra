@@ -4,12 +4,17 @@
 🌐 Live Demo
 👉 Click here to open आरोग्य Mitra
 
-🚀 Features
-🗣️ Multilingual support (e.g., Hindi, Marathi, etc.)
-💬 Chat-based symptom checker and health assistant
-🧠 Powered by AI for intelligent responses
-📱 Mobile and desktop responsive interface
-🔐 Secure and user-friendly 
+ Features
+ 
+🗣Multilingual support (e.g., Hindi, Marathi, etc.)
+
+💬Chat-based symptom checker and health assistant
+
+🧠Powered by AI for intelligent responses
+
+📱Mobile and desktop responsive interface
+
+🔐Secure and user-friendly 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Home Page Overview
   Shows the introductory welcome screen of आरोग्य Mitra with a clear description of its purpose, core principles, and an empathetic disclaimer about health advice.
