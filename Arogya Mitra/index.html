@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>आरोग्य Mitra</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: {
+                DEFAULT: '#059669', // emerald-600
+                light: '#10B981', // emerald-500
+                dark: '#047857',  // emerald-700
+              },
+              secondary: {
+                DEFAULT: '#0D9488', // teal-600
+                light: '#14B8A6', // teal-500
+                dark: '#0F766E',  // teal-700
+              },
+              accent: {
+                DEFAULT: '#F59E0B', // amber-500
+                light: '#FBBF24', // amber-400
+                dark: '#D97706',  // amber-600
+              },
+              neutral: {
+                lightest: '#F9FAFB', // gray-50
+                light: '#F3F4F6',    // gray-100
+                DEFAULT: '#6B7280',    // gray-500
+                medium: '#4B5563',   // gray-600
+                dark: '#1F2937',      // gray-800
+                darkest: '#111827',   // gray-900
+              }
+            }
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "@google/genai": "https://esm.sh/@google/genai@^1.5.1",
+    "react-router-dom": "https://esm.sh/react-router-dom@^7.6.2",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-neutral-light">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
