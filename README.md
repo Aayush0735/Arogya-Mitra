@@ -1,20 +1,20 @@
-आरोग्य Mitra 🩺🤖
+आरोग्य Mitra
 आरोग्य Mitra is an AI-powered healthcare assistant designed to provide users with basic health advice, symptom analysis, and support in regional Indian languages. It aims to improve accessibility to healthcare information, especially for non-English speaking populations.
 
 🌐 Live Demo
-👉 Click to open आरोग्य Mitra (https://mitra-37297729595.us-west1.run.app/)
+Click to open आरोग्य Mitra (https://mitra-37297729595.us-west1.run.app/)
 
  Features
  
-🗣Multilingual support (e.g., Hindi, Marathi, etc.)
+- Multilingual support (e.g., Hindi, Marathi, etc.)
 
-💬Chat-based symptom checker and health assistant
+- Chat-based symptom checker and health assistant
 
-🧠Powered by AI for intelligent responses
+- Powered by AI for intelligent responses
 
-📱Mobile and desktop responsive interface
+- Mobile and desktop responsive interface
 
-🔐Secure and user-friendly 
+- Secure and user-friendly 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Home Page Overview
   Shows the introductory welcome screen of आरोग्य Mitra with a clear description of its purpose, core principles, and an empathetic disclaimer about health advice.
